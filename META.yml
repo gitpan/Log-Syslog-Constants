@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Log-Syslog-Constants
-version:            1.00
+version:            1.01
 abstract:           Perl extension containing syslog priority constants as
 author:
     - Adam Thomason <athomason@sixapart.com>
